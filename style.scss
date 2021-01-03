@@ -1,0 +1,13 @@
+// *** Main Settings *//
+* {
+	font-family: "Roboto" sans-serif;
+}
+
+// ** Миксины *//
+@import "./scss/mixin";
+
+// ** Основные стили *//
+@import "./scss/general";
+
+// ********* Медиа запросы *//
+@import "./scss/media";
